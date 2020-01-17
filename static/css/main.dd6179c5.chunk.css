@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace;
+}
+.Navigation_list__1S1qX {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.Navigation_item__1snbF {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1;
+  padding-right: 20px;
+}
+.Navigation_item_link__D0K47 {
+  text-decoration: none;
+  color: #212121;
+}
+.Navigation_item_link_active__2cgPy {
+  color: #d87093;
+}
+.HomePage_title__vMDRw,
+.MoviesPage_search_form__2KkWm {
+  padding: 20px;
+}
+.MovieCastPage_actors__3s-z_ {
+  display: flex;
+  flex-wrap: wrap;
+}
+.MovieCastPage_actors_item__idKTY {
+  margin: 20px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.MovieCastPage_actors_item_title__2q_Hr {
+  margin: 0;
+}
+.MovieCastPage_actors_item_image__1zLRm {
+  text-align: center;
+}
+.MovieDetailsPage_wrp_movie__2co5d {
+  padding: 0 20px;
+}
+.MovieDetailsPage_wrp_about__a0-ek {
+  padding: 20px 0;
+  border-bottom: 1px solid grey;
+}
+.MovieDetailsPage_title__2Ygwq {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+}
+.MovieDetailsPage_description__22D8_ {
+  display: flex;
+}
+.MovieDetailsPage_image__sc2U0 {
+  margin-right: 20px;
+}
+.MovieDetailsPage_btn_goback__1G1mU {
+  margin-bottom: 20px;
+}
+.MovieDetailsPage_genres__3cDKW {
+  text-transform: capitalize;
+}
+.MovieDetailsPage_txt_addinfo__18rYF {
+  font-size: 20px;
+  font-weight: 700;
+}
+/*# sourceMappingURL=main.dd6179c5.chunk.css.map */
