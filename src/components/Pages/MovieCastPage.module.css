@@ -1,0 +1,19 @@
+.actors {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.actors_item {
+  margin: 20px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.actors_item_title {
+  margin: 0;
+}
+
+.actors_item_image {
+  text-align: center;
+}

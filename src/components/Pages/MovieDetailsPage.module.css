@@ -1,0 +1,35 @@
+.wrp_movie {
+  padding: 0 20px;
+}
+
+.wrp_about {
+  padding: 20px 0;
+  border-bottom: 1px solid grey;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.description {
+  display: flex;
+}
+
+.image {
+  margin-right: 20px;
+}
+
+.btn_goback {
+  margin-bottom: 20px;
+}
+
+.genres {
+  text-transform: capitalize;
+}
+
+.txt_addinfo {
+  font-size: 20px;
+  font-weight: bold;
+}
